@@ -1,6 +1,6 @@
 ### Hi I'm Maryam!
 
-- 🔭 I’m currently working on some basic vanila javascript projects to have gripe on Front-end.
+- 🔭 I’m currently working on some basic vanila javascript projects to have grip on Front-end.
 - 🌱 I’m currently learning Front End Webdevelopment.
 - 👯 I’m looking to collaborate on Insagram.
 - 🤔 I’m looking for help with JavaScript.
